@@ -1,5 +1,5 @@
 # ShakeSafe 
-<br> ```This project won the Health Category Prize in the 2023 MakeUoft Hackathon!```
+```This project won the Health Category Prize in the 2023 MakeUoft Hackathon!```
 
 [Video Demo](https://devpost.com/software/i-can-t-breathe)
    
